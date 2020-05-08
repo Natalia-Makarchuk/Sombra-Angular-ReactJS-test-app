@@ -39,20 +39,20 @@ Show tooltips on errors and success (for ex., form saved successfully, element e
 
 
 ## Requirements ReactJs
-Use class components.
-Use functional components.
-Use functional component hooks.
-Use component state.
-Use redux state.
-Use redux form.
-Use react router (i.e. get params from route).
-Use typescrtipt.
-Use axios for fetch requests (you could use some json generator or some real time db).
-Prevent component render without data.
-Don't forget to create interfaces, 'any' type is unacceptable.
-Use styling library (for ex., antd, bootstrap).
-Optional: Use middlewares.
-Optional: Unit-testing.
+- Use class components.
+- Use functional components.
+- Use functional component hooks.
+- Use component state.
+- Use redux state.
+- Use redux form.
+- Use react router (i.e. get params from route).
+- Use typescrtipt.
+- Use axios for fetch requests (you could use some json generator or some real time db).
+- Prevent component render without data.
+- Don't forget to create interfaces, 'any' type is unacceptable.
+- Use styling library (for ex., antd, bootstrap).
+- Optional: Use middlewares.
+- Optional: Unit-testing.
 
 
 ### Useful links Angular
