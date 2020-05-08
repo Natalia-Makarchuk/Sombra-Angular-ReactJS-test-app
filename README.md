@@ -17,6 +17,7 @@ You're a blog owner.
 - Create an article page (form for creating a new article). After creation, a new article should appear in the list.
 - Users page (table list of your subscribers). With filter (by banned/active) and search (by email, name), pagination, sorting. With an action button to ban or activate user.
 3. Logout.
+
 P.S.
 Use angular reactive form (with input fields, textarea, drop-downs, validation and error messages).
 Show tooltips on errors and success (for ex., form saved successfully, element edited or deleted successfully or no).
