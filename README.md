@@ -1,9 +1,9 @@
 # Angular / ReactJs test app
 
-# App description
+## App description
 You're a blog owner.
 
-## *As user: 
+## _As user:_
 1. You can see your blog Home page, with a list of articles.
 2. Each article should include title, short description and data creation.
 3. Button to open article details page. This page should include full description, images, creation date.
