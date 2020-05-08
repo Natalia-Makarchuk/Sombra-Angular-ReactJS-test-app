@@ -27,15 +27,22 @@ Use angular reactive form (with input fields, textarea, drop-downs, validation a
 Show tooltips on errors and success (for ex., form saved successfully, element edited or deleted successfully or no).
 
 ## Requirements Angular
-Use router guards.
-Implement routing with lazy loading.
-Get current router state (get router params).
-Use different types of Angular Directives, optional: implement custom directive.
-Use Pipes, optional: create custom pipe.
-Use reactive form.
-Add form fields validation.
-Implement communication between components (parent-child, siblings).
-Create common components.
+- Use router guards.
+
+- Implement routing with lazy loading.
+
+- Get current router state (get router params).
+
+- Use different types of Angular Directives, optional: implement custom directive.
+
+- Use Pipes, optional: create custom pipe.
+
+- Use reactive form.
+
+- Add form fields validation.
+
+- Implement communication between components (parent-child, siblings).
+- Create common components.
 Use RxJs (subscribe, unsubscribe,  Subject, optional: try different ways to unsubscribe, BehaviourSubject, different RxJs operators).
 Use Angular Material for styling.
 Use HttpClient for fetch requests (you could use some json generator or some real time db).
@@ -60,12 +67,12 @@ Optional: Use middlewares.
 Optional: Unit-testing.
 
 
-## Useful links Angular
+### Useful links Angular
 https://angular.io/guide/styleguide
 https://xsltdev.ru/react/
 https://github.com/sudheerj/angular-interview-questions#write-a-pictorial-diagram-of-angular-architecture
 
-## Useful links ReactJs
+### Useful links ReactJs
 https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a
 https://towardsdatascience.com/react-best-practices-804def6d5215
 https://xsltdev.ru/react/
