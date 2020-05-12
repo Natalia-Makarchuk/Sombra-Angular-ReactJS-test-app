@@ -22,6 +22,9 @@ P.S.
 Use angular reactive form (with input fields, textarea, drop-downs, validation and error messages).
 Show tooltips on errors and success (for ex., form saved successfully, element edited or deleted successfully or no).
 
+_Optional:_
+CI/CD process
+
 ## Requirements Angular
 - Use router guards.
 - Implement routing with lazy loading.
