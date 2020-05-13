@@ -61,11 +61,14 @@ CI/CD process
 
 ### Useful links Angular
 https://angular.io/guide/styleguide
+
 https://github.com/sudheerj/angular-interview-questions#write-a-pictorial-diagram-of-angular-architecture
 
 ### Useful links ReactJs
 https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a
+
 https://towardsdatascience.com/react-best-practices-804def6d5215
+
 https://xsltdev.ru/react/
 
 
