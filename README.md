@@ -61,7 +61,6 @@ CI/CD process
 
 ### Useful links Angular
 https://angular.io/guide/styleguide
-https://xsltdev.ru/react/
 https://github.com/sudheerj/angular-interview-questions#write-a-pictorial-diagram-of-angular-architecture
 
 ### Useful links ReactJs
