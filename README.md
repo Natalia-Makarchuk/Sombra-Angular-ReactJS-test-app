@@ -58,7 +58,7 @@ CI/CD process
 - Optional: Use middlewares.
 - Optional: Unit-testing.
 
-### Simple ways to create simple face server:
+### Simple ways to create get a server:
 1. Use typicode json server, allow to add json data and get it
 https://my-json-server.typicode.com/
 You can do it in two ways:
