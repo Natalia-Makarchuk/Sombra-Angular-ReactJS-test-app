@@ -73,7 +73,7 @@ detailed instruction with examples here: https://jsonplaceholder.typicode.com/gu
 instruction here: https://github.com/typicode/json-server
 
 2. Use Firebase
-- you need to add firebase to your project, whet is also pretty simple, https://firebase.google.com
+- you need to add firebase to your project, what is also pretty simple, https://firebase.google.com
 
 - we reccomend to use Cloud Firestore to work with data.
 
@@ -82,11 +82,12 @@ Instruction from oficial documentation you also could find here: https://firebas
 3. Use NodeJs
 
 - pretty simple to create local server with express, a few examples you could find here:
+
 https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
 
 https://stackabuse.com/building-a-rest-api-with-node-and-express/
 
-4. Your own option.
+4. Or your own option.
 
 ### Useful links Angular
 https://angular.io/guide/styleguide
