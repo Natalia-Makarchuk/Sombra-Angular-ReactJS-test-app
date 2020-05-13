@@ -60,21 +60,27 @@ CI/CD process
 
 ### Simple ways to create get a server:
 1. Use typicode json server, allow to add json data and get it
+
 https://my-json-server.typicode.com/
+
 You can do it in two ways:
 - create json file/files on your github and get/write/delete data from https://my-json-server.typicode.com/your-github-name/repository-name
+
 detailed instruction with examples here: https://jsonplaceholder.typicode.com/guide.html
 
 - run server locally
+
 instruction here: https://github.com/typicode/json-server
 
 2. Use Firebase
 - you need to add firebase to your project, whet is also pretty simple, https://firebase.google.com
 
 - we reccomend to use Cloud Firestore to work with data.
+
 Instruction from oficial documentation you also could find here: https://firebase.google.com/docs/firestore/quickstart
 
 3. Use NodeJs
+
 - pretty simple to create local server with express, a few examples you could find here:
 https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
 
