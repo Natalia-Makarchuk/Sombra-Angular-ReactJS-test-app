@@ -6,7 +6,7 @@ You're a blog owner.
 ## _As user:_
 1. You can see your blog Home page, with a list of articles.
 2. Each article should include title, short description and creation date.
-3. There shoul be presented button for open article details page. This page need to include full description, images, creation date.
+3. There should be presented button for open article details page. This page need to include full description, images, creation date.
 4. New users can subscribe to the blog: on the home page should be a button "Subscribe", on click - appear modal window with subscription form, where the user can enter email, first name, last name.
 
 ## _As admin:_
